@@ -1,0 +1,10 @@
+{
+  "orgName": "ccidx6nov - Dev Org",
+  "edition": "Developer",
+  "orgPreferences" : {
+    "enabled": [
+      "S1DesktopEnabled",
+      "ChatterEnabled"
+    ]
+  }
+}
